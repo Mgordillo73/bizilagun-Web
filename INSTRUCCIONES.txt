@@ -1,0 +1,19 @@
+SUBIR A GITHUB SIN CARPETAS
+
+1. Descomprime Bizilagun_sin_carpetas.zip.
+2. Verás tres archivos: index.html, render.yaml e INSTRUCCIONES.txt.
+3. Crea un repositorio nuevo en GitHub llamado pasteleria-bizilagun-demo.
+4. Dentro del repositorio pulsa “uploading an existing file” o “Add file > Upload files”.
+5. Selecciona los tres archivos y súbelos. No tienes que subir ninguna carpeta.
+6. Pulsa “Commit changes”.
+
+CREAR LA DEMO EN RENDER
+
+1. En Render pulsa “New +” y después “Blueprint”.
+2. Conecta el repositorio de GitHub.
+3. Selecciona pasteleria-bizilagun-demo.
+4. Render detectará render.yaml.
+5. Pulsa “Apply” o “Deploy Blueprint”.
+6. Cuando aparezca “Live”, Render te dará la URL de demostración.
+
+Esta versión es estática: no necesita instalar programas ni dependencias. El formulario abre WhatsApp y no almacena datos.
