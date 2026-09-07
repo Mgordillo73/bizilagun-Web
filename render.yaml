@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: pasteleria-bizilagun-demo
+    runtime: static
+    buildCommand: echo "Web estática lista"
+    staticPublishPath: .
+    autoDeploy: true
